@@ -1,1 +1,8 @@
+name: FormeStatus
+version: 1.0
+main: net.forme.status.FormeStatus
+api-version: 1.20
 
+commands:
+  status:
+    description: Show server status
