@@ -1,1 +1,10 @@
+tps:
+  warning: 18.0
+  danger: 17.0
 
+alert:
+  enabled: true
+
+api:
+  enabled: true
+  port: 8085
